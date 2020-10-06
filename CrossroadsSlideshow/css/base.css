@@ -24,7 +24,7 @@ html, body {
 
 body {
 	--color-text: #5d5d5d;
-	--color-bg: #e6e6ea;
+	--color-bg: #a194f7;
 	--color-link: #838288;
 	--color-link-hover: #000;
 	--color-number: #000;
@@ -47,7 +47,7 @@ body {
 	--color-link: #bb3a3a;
 	--color-link-hover: #fff;
 	--color-number: #484848;
-	--color-title: #bb3a3a;
+	--color-title: #ffffff;
 	--color-caption: #484848;
 	--color-content: #dadada;
 	--color-content-title: #bb3a3a;
@@ -214,6 +214,7 @@ main {
 .content__item-copy {
 	padding: 2rem;
 	font-family: linotype-didot, serif;
+	font-size: 15px;
 }
 
 .revealer {
@@ -291,7 +292,7 @@ main {
 }
 
 .grid__item--title {
-	font-size: 13vw;
+	font-size: 10vw;
 	margin: 0;
 	font-family: ivymode, sans-serif;
 	font-weight: 600;
